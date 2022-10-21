@@ -1,0 +1,14 @@
+E-commerce code challenge
+
+step 1-> npm i
+step 2-> npm start/node index.js
+
+Here we created the dummy data for products in products.data.json,
+for postalcodes ,postalData.json, which we used for testing 
+
+for testing we created a file in  test/index.js ,where we used mocha & chai for API testing
+
+for testing-> npm test
+
+In helpers folder we have different functions which we used for percentage ,totalproduct price and shipping charges
+calculation

@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "product": {
+      "id": 101,
+      "name": "Product no 101",
+      "price": 109.95,
+      "discount_percentage": 3.2,
+      "weight_in_grams": 320
+    }
+  },
+  {
+    "status": "success",
+    "product": {
+      "id": 102,
+      "name": "Product no 102",
+      "price": 102.95,
+      "discount_percentage": 2.2,
+      "weight_in_grams": 120
+    }
+  },
+  {
+    "status": "success",
+    "product": {
+      "id": 103,
+      "name": "Product no 103",
+      "price": 112.95,
+      "discount_percentage": 4.2,
+      "weight_in_grams": 220
+    }
+  },
+  {
+    "status": "success",
+    "product": {
+      "id": 104,
+      "name": "Product no 104",
+      "price": 104.95,
+      "discount_percentage": 5.2,
+      "weight_in_grams": 20
+    }
+  },
+  {
+    "status": "success",
+    "product": {
+      "id": 105,
+      "name": "Product no 105",
+      "price": 105.45,
+      "discount_percentage": 20.2,
+      "weight_in_grams": 210
+    }
+  },
+  {
+    "status": "success",
+    "product": {
+      "id": 106,
+      "name": "Product no 102",
+      "price": 106.85,
+      "discount_percentage": 7.2,
+      "weight_in_grams": 250
+    }
+  },
+  {
+    "status": "success",
+    "product": {
+      "id": 107,
+      "name": "Product no 107",
+      "price": 107.25,
+      "discount_percentage": 7.2,
+      "weight_in_grams": 720
+    }
+  },
+  {
+    "status": "success",
+    "product": {
+      "id": 108,
+      "name": "Product no 108",
+      "price": 118.95,
+      "discount_percentage": 8.2,
+      "weight_in_grams": 870
+    }
+  },
+  {
+    "status": "success",
+    "product": {
+      "id": 109,
+      "name": "Product no 109",
+      "price": 119.95,
+      "discount_percentage": 9.2,
+      "weight_in_grams": 920
+    }
+  },
+  {
+    "status": "success",
+    "product": {
+      "id": 110,
+      "name": "Product no 112",
+      "price": 121.95,
+      "discount_percentage": 1.2,
+      "weight_in_grams": 1110
+    }
+  }
+]
